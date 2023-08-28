@@ -11,6 +11,8 @@
   <b><a align="center" href="">Watch Demo Video</a></b>
   <br/>
   ## Mockup of the website
+  ## Figma Design for Convene Website
+  (https://www.figma.com/file/WDETQ0VReVi3RCS2uc9Y3S/Convene-Website?type=design&node-id=0-1&mode=design&t=cNgrDVRKu1lV5g2j-0)
   <p align="center">
     Use this readme for getting stared with this project
     <br />
