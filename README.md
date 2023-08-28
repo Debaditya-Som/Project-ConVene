@@ -64,7 +64,7 @@
   - Comprehensive tools for organizers
   - Event creation, management, and promotion
 - Benefit: Enhanced event visibility and accessibility for all parties involved.
- 
+
 
 ### Built With
 
@@ -72,6 +72,31 @@ create read update delete -> api
 - <img src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="margin-top: 40px" height=30px width=30px >  **React** - for building the frontend UI <br>
 -  <img src = "https://github.com/Debaditya-Som/Project-ConVene/assets/121785700/246f7cfb-941e-4ac5-9109-334bf09fcfae" height=30px width=30px>  **MongoDB** - for building the database <br>
 -  <img src = "https://github.com/Debaditya-Som/Project-ConVene/assets/121785700/7ef5e7e1-4ee6-49db-a75f-59f021948c45" height=30px width=30px>  **Node.js** - for framework  <br>
+-  <img src = "https://github.com/Debaditya-Som/Project-ConVene/assets/121785700/ebb8be9c-01b6-4142-984a-132560af022a" height=30px width=30px>  **REST api** - for CRUD operartion (create read update delete)   <br>
+
+<!-- GETTING STARTED -->
+## Getting Started
+For setting up your project locally, follow these simple steps.
+
+### Prerequisites
+You must have NPM(Node Package Manager) installed  in your system , If you dont we got you covered  
+
+  
+  [Install NPM](https://phoenixnap.com/kb/install-node-js-npm-on-windows)
+ 
+
+### Installation
+
+_How to setup this project_
+
+1. Clone the repo
+   ```sh
+ git clone 
+    ```
+3. Install all the NPM packages
+   ```sh
+   npm install
+   ```
 
   ## Mockup of the website
   ## Figma Design for Convene Website
