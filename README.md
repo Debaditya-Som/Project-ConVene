@@ -10,7 +10,7 @@
   ## An Event Management Website
   <b><a align="center" href="">Watch Demo Video</a></b>
   <br/>
-
+  ## Mockup of the website
   <p align="center">
     Use this readme for getting stared with this project
     <br />
