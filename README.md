@@ -91,18 +91,69 @@ _How to setup this project_
 
 1. Clone the repo
    ```sh
- git clone 
-    ```
+   git clone https://github.com/Debaditya-Som/Project-ConVene.git
+   ```
 3. Install all the NPM packages
    ```sh
    npm install
    ```
+4 run 
+  ```sh
+  npm start dev
+   ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-  ## Mockup of the website
-  ## Figma Design for Convene Website
-  https://www.figma.com/file/WDETQ0VReVi3RCS2uc9Y3S/Convene-Website?type=design&node-id=0-1&mode=design&t=cNgrDVRKu1lV5g2j-0
+
+
+  ## Mockup of the website in Figma
+
+  Figma file :   https://www.figma.com/file/WDETQ0VReVi3RCS2uc9Y3S/Convene-Website?type=design&node-id=0-1&mode=design&t=cNgrDVRKu1lV5g2j-0
+
   <p align="center">
     Use this readme for getting stared with this project
     <br />
 
   </p>
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "improvement".
+Don't forget to star this project!! 
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/Feature1`)
+3. Commit your Changes (`git commit -m 'Add Feature 1'`)
+4. Push to the Branch (`git push origin feature/Feature1`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+
+* [NPM](https://www.npmjs.com/)
+* React icons
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
