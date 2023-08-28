@@ -65,6 +65,14 @@
 - Benefit: Enhanced event visibility and accessibility for all parties involved.
 
 
+### Workflow of our website:
+
+![bac2e790-f2fe-4889-b711-371d39abd1f7](https://github.com/Debaditya-Som/Project-ConVene/assets/121785700/b9634ee2-bbb1-4eca-9675-3da256dd9566)
+
+
+
+
+
 ### Built With
 
 create read update delete -> api 
