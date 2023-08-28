@@ -10,6 +10,8 @@
   ## An Event Management Website
   <b></a><a align="center" href="https://www.youtube.com/watch?v=MggdNEUkS4o">Watch Demo Video</a></b>
 
+   <b></a><a align="center" href="https://hackene-client.vercel.app/">Demo Working (backend)</a></b>
+
   <br/>
 </div>
   <!-- TABLE OF CONTENTS -->
