@@ -29,7 +29,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -109,11 +108,7 @@ _How to setup this project_
 
   Figma file :  [Click here to view the Mock Up](https://www.figma.com/file/WDETQ0VReVi3RCS2uc9Y3S/Convene-Website?type=design&node-id=0-1&mode=design&t=cNgrDVRKu1lV5g2j-0)
 
-  <p align="center">
-    Use this readme for getting stared with this project
-    <br />
 
-  </p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -157,3 +152,9 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+  <p align="center">
+    Use this readme for getting stared with this project
+    <br />
+
+  </p>
