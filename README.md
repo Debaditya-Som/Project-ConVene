@@ -107,7 +107,7 @@ _How to setup this project_
 
   ## Mockup of the website in Figma
 
-  Figma file :   https://www.figma.com/file/WDETQ0VReVi3RCS2uc9Y3S/Convene-Website?type=design&node-id=0-1&mode=design&t=cNgrDVRKu1lV5g2j-0
+  Figma file :  [Click here to view the Mock Up](https://www.figma.com/file/WDETQ0VReVi3RCS2uc9Y3S/Convene-Website?type=design&node-id=0-1&mode=design&t=cNgrDVRKu1lV5g2j-0)
 
   <p align="center">
     Use this readme for getting stared with this project
