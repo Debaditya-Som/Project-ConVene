@@ -104,13 +104,13 @@ _How to setup this project_
    ```sh
    git clone https://github.com/Debaditya-Som/Project-ConVene.git
    ```
-3. Install all the NPM packages
+2. Install all the NPM packages
    ```sh
    npm install
    ```
-4 run 
-  ```sh
-  npm start dev
+3. run 
+   ```sh
+   npm start 
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
